@@ -26,5 +26,4 @@ This project is a deep learning model that classifies handwritten digits from th
 ## 🚀 How to Run
 
 ```bash
-pip install -r requirements.txt
 python Handwritten_digits_recognition.py
